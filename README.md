@@ -7,6 +7,9 @@ Table of Contents
 All the week-by-week assignments and the Final project for the Celebal Technology Summer Internship.
 
 Week 1 Assignment: Set up Node.js and create your first application
+
 Week 2 Assignment: Build a file management tool using core modules
+
 Week 3 Assignment: Convert callback-based code to Promises and Async/Await.
+
 Week 4 Assignment - Create a basic web server with Express.js.
