@@ -1,15 +1,14 @@
-# CELEBAL-SUMMER-INTERNSHIP
-Welcome to my GitHub repository for the Celebal Technology Summer Internship Program.
+Week-1_Assignment_Celebal-Summer-Internship
+Install Node.js and build a simple "Hello World" application. Understand the basics of Node.js runtime and execute your application.
 
-Over the next 8 weeks, I will be uploading my weekly assignments for this Node.js-focused internship and my final project. Developing a blogging platform with user authentication and management features. Gaining practical experience in JavaScript, MongoDB, Express.js, and RESTful API development.
+Hello World_application
+Welcome to this repository! This is a basic Node.js "Hello World" application. Helps to Learn about the fundamentals of the Node.js runtime.
 
-Table of Contents
-All the week-by-week assignments and the Final project for the Celebal Technology Summer Internship.
+(https://github.com/user-attachments/assets/c3c75a31-f1aa-4b0e-a661-bb3dc6cc00d3)
 
-Week 1 Assignment: Set up Node.js and create your first application
-
-Week 2 Assignment: Build a file management tool using core modules
-
-Week 3 Assignment: Convert callback-based code to Promises and Async/Await.
-
-Week 4 Assignment - Create a basic web server with Express.js.
+Installation
+Clone the repository: git clone https://github.com/Anupam-03/Week-1_Assignment_Celebal-Summer-Internship.git
+Open the project directory in your code editor.
+Open the index.html file in your web browser to use the web app.
+Usage
+Once the project is set up, open the index.html file in your web browser.
