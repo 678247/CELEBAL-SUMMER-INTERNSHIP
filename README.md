@@ -7,8 +7,10 @@ Welcome to this repository! This is a basic Node.js "Hello World" application. H
 (https://github.com/user-attachments/assets/c3c75a31-f1aa-4b0e-a661-bb3dc6cc00d3)
 
 Installation
-Clone the repository: git clone https://github.com/Anupam-03/Week-1_Assignment_Celebal-Summer-Internship.git
+
 Open the project directory in your code editor.
+
 Open the index.html file in your web browser to use the web app.
+
 Usage
 Once the project is set up, open the index.html file in your web browser.
